@@ -6,3 +6,5 @@ change2{(added more statements and new changes)}
 
 change 3{(more stuff changed)}
 change4(another modification)
+
+change 6(test for reset-after the test data was maintained but commit msg was removed)
