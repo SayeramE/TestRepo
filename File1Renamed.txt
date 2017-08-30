@@ -11,3 +11,5 @@ change-6(test for reset-after the test data was maintained but commit msg was re
 
 change-7(a new commit to understand merge conflict -done in master)now modified after merge manually to hold the version we want
 
+change-8 new commit for rebase exp - done from master
+
