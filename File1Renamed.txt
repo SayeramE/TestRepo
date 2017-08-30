@@ -1,10 +1,10 @@
 hello git 
 
-change1{(assume its change of 500 lines of code)}
+change-1{(assume its change of 500 lines of code)}
 
-change2{(added more statements and new changes)}
+change-2{(added more statements and new changes)}
 
-change3{(more stuff changed)}
-change4(another modification)
+change-3{(more stuff changed)}
+change-4(another modification)
 
-change6(test for reset-after the test data was maintained but commit msg was removed)
+change-6(test for reset-after the test data was maintained but commit msg was removed)
