@@ -8,3 +8,5 @@ change-3{(more stuff changed)}
 change-4(another modification)
 
 change-6(test for reset-after the test data was maintained but commit msg was removed)
+
+change-7 Commit for branch merge after commits on master have occured after branch creation but b4 merge
