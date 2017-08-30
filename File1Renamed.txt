@@ -8,3 +8,4 @@ change-3{(more stuff changed)}
 change-4(another modification)
 
 change-6(test for reset-after the test data was maintained but commit msg was removed)
+change-7(a new commit to understand merge conflict -done in master)
